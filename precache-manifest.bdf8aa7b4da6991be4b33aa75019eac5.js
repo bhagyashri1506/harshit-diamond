@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/harshit-diamond/static/js/runtime~main.40875fd6.js"
   },
   {
-    "revision": "a44cff6e2c5b3d74eda9e4f9d338598a",
+    "revision": "44384aea22f1d0ba5f8238e4e55524a9",
     "url": "/harshit-diamond/index.html"
   }
 ];
