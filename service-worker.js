@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/harshit-diamond/precache-manifest.4a99bbf69066047c152b29df4a9890f2.js"
+  "/harshit-diamond/precache-manifest.43a30a43f0fc0a0179102da367b4839f.js"
 );
 
 workbox.clientsClaim();
