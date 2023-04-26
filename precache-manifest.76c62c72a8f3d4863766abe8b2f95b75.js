@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0a2321f7101f4d190be1",
+    "revision": "126cd83c5808e1adea31",
     "url": "/harshit-diamond/static/css/main.912509ad.chunk.css"
   },
   {
-    "revision": "0a2321f7101f4d190be1",
-    "url": "/harshit-diamond/static/js/main.0a2321f7.chunk.js"
+    "revision": "126cd83c5808e1adea31",
+    "url": "/harshit-diamond/static/js/main.126cd83c.chunk.js"
   },
   {
     "revision": "23e5026d3c124a934bc7",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/harshit-diamond/static/js/runtime~main.927b77dd.js"
   },
   {
-    "revision": "7f38315de2aa6831f979e2bad4c770d8",
+    "revision": "e2b0e0bf58ddc2f2bc54c5e68da19461",
     "url": "/harshit-diamond/index.html"
   }
 ];
