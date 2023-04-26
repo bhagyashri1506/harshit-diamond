@@ -1,7 +1,7 @@
 {
   "main.css": "/harshit-diamond/static/css/main.912509ad.chunk.css",
-  "main.js": "/harshit-diamond/static/js/main.126cd83c.chunk.js",
-  "main.js.map": "/harshit-diamond/static/js/main.126cd83c.chunk.js.map",
+  "main.js": "/harshit-diamond/static/js/main.b77de667.chunk.js",
+  "main.js.map": "/harshit-diamond/static/js/main.b77de667.chunk.js.map",
   "static/js/1.23e5026d.chunk.js": "/harshit-diamond/static/js/1.23e5026d.chunk.js",
   "static/js/1.23e5026d.chunk.js.map": "/harshit-diamond/static/js/1.23e5026d.chunk.js.map",
   "static/css/2.74f33ad9.chunk.css": "/harshit-diamond/static/css/2.74f33ad9.chunk.css",
@@ -12,6 +12,6 @@
   "static/css/2.74f33ad9.chunk.css.map": "/harshit-diamond/static/css/2.74f33ad9.chunk.css.map",
   "static/css/main.912509ad.chunk.css.map": "/harshit-diamond/static/css/main.912509ad.chunk.css.map",
   "index.html": "/harshit-diamond/index.html",
-  "precache-manifest.76c62c72a8f3d4863766abe8b2f95b75.js": "/harshit-diamond/precache-manifest.76c62c72a8f3d4863766abe8b2f95b75.js",
+  "precache-manifest.e541ed85d5b1a143a218e0e29dda354f.js": "/harshit-diamond/precache-manifest.e541ed85d5b1a143a218e0e29dda354f.js",
   "service-worker.js": "/harshit-diamond/service-worker.js"
 }
